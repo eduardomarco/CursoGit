@@ -1,1 +1,7 @@
-background-color:blue
+@charset "utf-8"
+/* css Document */
+body{
+background-color:blue;
+font-weight: bold;
+color: red;
+}
